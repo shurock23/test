@@ -28,6 +28,7 @@ namespace DataAccess
 
         public void dbClose()
         {
+            //czxcxz
             sqlConn.Close();
         }
 
