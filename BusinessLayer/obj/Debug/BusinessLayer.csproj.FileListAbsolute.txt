@@ -1,0 +1,15 @@
+C:\Users\DATA\documents\visual studio 2012\Projects\Inventory\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\DATA\documents\visual studio 2012\Projects\Inventory\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\DATA\documents\visual studio 2012\Projects\Inventory\BusinessLayer\bin\Debug\DataAccess.dll
+C:\Users\DATA\documents\visual studio 2012\Projects\Inventory\BusinessLayer\bin\Debug\DataAccess.pdb
+C:\Users\DATA\documents\visual studio 2012\Projects\Inventory\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\DATA\documents\visual studio 2012\Projects\Inventory\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\DATA\documents\visual studio 2012\Projects\Inventory\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\c_jacabugao\Desktop\files\Inventory\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\c_jacabugao\Desktop\files\Inventory\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\c_jacabugao\Desktop\files\Inventory\BusinessLayer\bin\Debug\DataAccess.dll
+C:\Users\c_jacabugao\Desktop\files\Inventory\BusinessLayer\bin\Debug\DataAccess.pdb
+C:\Users\c_jacabugao\Desktop\files\Inventory\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\c_jacabugao\Desktop\files\Inventory\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\c_jacabugao\Desktop\files\Inventory\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\c_jacabugao\Desktop\files\Inventory\BusinessLayer\obj\Debug\BusinessLayer.pdb
